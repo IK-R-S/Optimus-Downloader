@@ -5,28 +5,7 @@ const  ytdl  =  require ( 'ytdl-core' ) ;
 
 const downloadList = [
 
-    'https://www.youtube.com/watch?v=bFUbaOTuWcg',
-    'https://www.youtube.com/watch?v=On3b_3v26YU',
-    'https://www.youtube.com/watch?v=cWA81k-7kp0',
-    'https://www.youtube.com/watch?v=6qmmG7v1eSk',
-    'https://www.youtube.com/watch?v=1VjIAuWhv4E',
-    'https://www.youtube.com/watch?v=4MolXZnSD6U',
-    'https://www.youtube.com/watch?v=5x6CldCImSQ',
-    'https://www.youtube.com/watch?v=rQsnIBDhAys',
-    'https://www.youtube.com/watch?v=mGVlRuv_P-c',
-    'https://www.youtube.com/watch?v=X3tK1cpP7YU',
-    'https://www.youtube.com/watch?v=dANcAGydlsM',
-    'https://www.youtube.com/watch?v=KiAHJdtusvc',
-    'https://www.youtube.com/watch?v=guRD77aReu0',
-    'https://www.youtube.com/watch?v=fwlf1G2c7es',
-    'https://www.youtube.com/watch?v=jApvWOGhKyo',
-    'https://www.youtube.com/watch?v=zx7QrUOScXw',
-    'https://www.youtube.com/watch?v=kSxGn4CWgKo',
-    'https://www.youtube.com/watch?v=QpBNXkKIYZw',
-    'https://www.youtube.com/watch?v=6T_Yret4NRw',
-    'https://www.youtube.com/watch?v=LTUN4X0IuVw',
-    'https://www.youtube.com/watch?v=mdAw7U_pBKs',
-    'https://www.youtube.com/watch?v=gs-V3_9eqX8',
+    'SEUS LINKS DO YOUTUBE',
 
 ]    
 
